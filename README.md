@@ -7,7 +7,7 @@
 
  2. Then you will need NodeJs installed: [version 6 or 7](https://nodejs.org/en/).
 
- 3. Then you need to get the zip project from [here](https://github.com/audstanley/minecraftHue/archive/master.zip)
+ 3. Then you need to get the zip project from [here](https://github.com/Kore-Development/minecraftHue/archive/master.zip)
 
  4. Then drag the folder inside the zip (*minecraftHue-master folder*) to your desktop. You should open the folder,
 and see the app.js, appHue.js, README.md and **NO OTHER FOLDERS INSIDE**.

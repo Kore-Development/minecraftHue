@@ -7,7 +7,7 @@ const { spawn } = require('child_process');
 let bigV = 1;
 let curr = 11;
 let smallV = 2;
-let previousV = 'minecraft_server.' + bigV + '.' + curr + '.' + smallV + '.jar';
+let previousV = 'server.jar';
 
 let job = new CronJob({
     cronTime: '00 00 03 * * *',
